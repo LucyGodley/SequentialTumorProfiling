@@ -1,3 +1,8 @@
 # Sequential Tumor Profiling
 Analysis of data for the manuscript titled "Using sequential tumor molecular profiling to identify germline variants" University of Chicago OncoPlus somatic sequencing panel.
 
+We developed a method to identify likely germline DNA variants from sequential tumor profiling data of patients with hematopoietic malignancies. Using variant allele frequency to calculate the coefficient of variance (CV), we created a 1-5 grading scale for each variant in a pilot set of 33 genes; 89% (48/54) grade 1, 77% (50/65) grade 2, 62% (23/37) grade 3, 52% (12/23) grade 4, and 21% (18/87) grade 5 variants were confirmed to be germline. Among those, 22% (33/151) were pathogenic or likely pathogenic in genes recognized as conferring germline risk for hematopoietic malignancies, including BRCA1, BRCA2, CHEK2, CSF3R, and DDX41. To analyze if this unsupervised approach enriched for genes associated with AD inheritance, we applied the prediction method to sequential NGS data from 1336 genes in 1135 patients with hematopoietic malignancies. Among unique variants identified, 16% (137/840) occurred in genes associated with germline susceptibility, of which 15% (20/137) were deleterious. Patients with grade 1/2 alleles had decreased survival at 2-years following the first NGS test (78% versus 88%, p=0.0037) and increased risk of all-cause mortality compared to those without such variants (HR 2.02, 95% CI 1.18–3.46, p = 0.01) highlighting the importance of identification in patients of all ages.
+
+
+
+Authors-Ira L. Kraft, Hatice Basdag, Ashwin Koppayi, Courtnee V. Rodgers, Yogameenakshi Haribabu, Pankhuri Wanjari, Nifang Niu, Soma Das, Jill de Jong, Jeremy Segal, and Lucy A. Godley
