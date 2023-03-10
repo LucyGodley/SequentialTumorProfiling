@@ -1,4 +1,3 @@
-#Analysis of data for the manuscript titled "Using sequential tumor molecular profiling to identify germline variants" U of C OncoPlus somatic sequencing panel
 
 #load the required analysis packages
 library(ggplot2)
